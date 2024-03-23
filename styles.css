@@ -1,0 +1,97 @@
+.div1{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: grid;
+}
+.div2{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: grid;
+
+}
+#s:hover{
+  background-color: rgb(255, 132, 0);
+  cursor: pointer;
+}
+#s{
+  margin-left: 10px;
+  padding: 15px 30px;
+  border-radius: 100px;
+  border-style: solid;
+  border-width: 0px;
+  background-color: orange;
+  font-size: 30px;
+ 
+}
+#a:hover{
+  background-color: rgb(255, 132, 0);
+  cursor: pointer;
+}
+#a{
+ 
+  padding: 15px 30px;
+  border-radius: 100px;
+  border-style: solid;
+  border-width: 0px;
+  background-color: orange;
+  font-size: 30px;
+ 
+}
+#d:hover{
+  background-color: rgb(255, 132, 0);
+  cursor: pointer;
+}
+#d{
+ 
+  padding: 15px 30px;
+  border-radius: 100px;
+  border-style: solid;
+  border-width: 0px;
+  background-color: orange;
+  font-size: 30px;
+
+}
+#t:hover{
+  background-color: rgb(255, 132, 0);
+  cursor: pointer;
+}
+#t{
+ 
+  padding: 15px 30px;
+  border-radius: 100px;
+  border-style: solid;
+  border-width: 0px;
+  background-color: orange;
+  font-size: 30px;
+ 
+}
+  
+body{
+  background-color: rgb(164, 164, 164);
+}
+h1{
+  text-align: center;
+  font-size: 40px;
+}
+
+.divb{
+  display: flex;
+  flex-direction: row;
+}
+.divs{
+  flex: 1;
+}
+.divd{
+  flex: 1;
+}
+.divt{
+  flex: 1;
+}
+.diva{
+  flex: 1;
+}
+
+
+
+
+
